@@ -1,7 +1,3 @@
-print("Hello World")
-
-print("Aiyappa")
-
-print("code to fetch")
-print ("welcome Good morning!")
-Print ("Thank you")
+print("the following things to do so ")
+print("farmer.chat")
+print("mobile and telegram")
