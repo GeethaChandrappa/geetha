@@ -1,3 +1,1 @@
-print("hello Welcome")
-print("value is need")
-print("welcome home")
+print ("welcome good morning")
